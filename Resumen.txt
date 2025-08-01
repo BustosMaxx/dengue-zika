@@ -1,0 +1,29 @@
+La presencia y propagación de enfermedades como el Zika y el Dengue en Argentina, que no eran endémicas en todo el territorio en el pasado, se debe a una combinación de factores complejos, principalmente relacionados con el comportamiento del mosquito Aedes aegypti (el vector), las condiciones climáticas y ambientales, y los patrones de movimiento humano.
+
+Aquí te detallo las razones clave
+
+1.  Re-emergencia del Aedes aegypti y expansión geográfica
+     Erradicación previa y reintroducción Argentina logró erradicar el Aedes aegypti a mediados del siglo XX a través de programas de control vectorial. Sin embargo, el mosquito fue reintroducido en el país en las últimas décadas, probablemente desde países vecinos donde nunca fue erradicado.
+     Adaptación y dispersión Una vez reintroducido, el mosquito ha logrado establecerse y expandirse geográficamente. Inicialmente limitado a las provincias del norte con climas subtropicales, se ha detectado su presencia cada vez más al sur, incluyendo provincias de clima templado como Buenos Aires, Córdoba y Santa Fe. Esto se debe a su gran capacidad de adaptación a diferentes entornos urbanos y periurbanos.
+     Huevo resistente Los huevos del Aedes aegypti son muy resistentes a la sequía y pueden sobrevivir por largos períodos en ambientes secos, eclosionando solo cuando entran en contacto con el agua. Esto les permite sobrevivir períodos fríos o secos y esperar las condiciones propicias para su desarrollo.
+
+2.  Cambio climático y aumento de temperaturas
+     Condiciones favorables El aumento de las temperaturas promedio y las olas de calor prolongadas crean un ambiente más propicio para el mosquito Aedes aegypti. Las temperaturas más cálidas aceleran el ciclo de vida del mosquito (de huevo a adulto), lo que significa que más mosquitos nacen en menos tiempo.
+     Mayor actividad y viremia Las temperaturas más elevadas también aumentan la tasa de replicación del virus dentro del mosquito (período de incubación extrínseco), haciéndolo infeccioso más rápidamente y durante más tiempo.
+     Extensión de la temporada de actividad En el pasado, las bajas temperaturas invernales limitaban la actividad del mosquito y, por ende, la transmisión. Sin embargo, con inviernos más suaves y veranos más largos y cálidos, la temporada de transmisión se extiende o incluso el mosquito puede permanecer activo en todas sus etapas dentro de los hogares, como se ha observado en algunas ciudades.
+     Precipitaciones y humedad Los patrones de lluvia irregulares, con períodos de sequía seguidos de lluvias intensas, favorecen la creación de criaderos al llenar recipientes y espacios que antes estaban secos. La humedad también es un factor importante para la supervivencia del mosquito.
+
+3.  Urbanización no planificada y condiciones socioambientales
+     Cinturones de pobreza y asentamientos irregulares La rápida y desordenada expansión de las áreas urbanas, con el crecimiento de asentamientos precarios y cinturones de pobreza, a menudo carece de infraestructura adecuada para el suministro de agua y la gestión de residuos. Esto lleva a la acumulación de recipientes con agua estancada (baldes, cubetas, neumáticos, floreros, etc.) que se convierten en criaderos ideales para el Aedes aegypti.
+     Deforestación En algunas regiones, la pérdida de bosques nativos reduce los depredadores naturales del mosquito y altera los ecosistemas, favoreciendo su proliferación.
+     Acumulación de residuos La falta de recolección de basura o la acumulación de desechos en patios y terrenos baldíos proveen innumerables micro-criaderos para el mosquito.
+
+4.  Movimiento de personas y globalización
+     Casos importados Los viajes y el comercio internacional facilitan la llegada de personas infectadas (casos importados) desde regiones donde el virus es endémico (especialmente Brasil, Paraguay, Bolivia, etc.). Una vez que una persona infectada llega a un área donde el mosquito Aedes aegypti está presente, y es picada por un mosquito local, el virus puede comenzar a circular localmente (casos autóctonos).
+     Conectividad La mayor conectividad y el flujo constante de personas entre regiones y países contribuyen a la dispersión de los virus.
+
+5.  Factores sociales y de salud pública
+     Falta de concientización y hábitos A pesar de las campañas, en muchas comunidades persiste la falta de conciencia sobre la importancia de eliminar los criaderos en el hogar y sus alrededores. La indiferencia o renuencia a adoptar hábitos saludables dificulta el control efectivo.
+     Vigilancia epidemiológica y control vectorial Si bien Argentina ha mejorado sus sistemas, los desafíos en la vigilancia, el control vectorial sostenido y la respuesta rápida a los brotes pueden permitir que las enfermedades se propaguen antes de ser contenidas.
+
+En síntesis, la migración de estas enfermedades a Argentina no es solo por el movimiento del virus en sí, sino por el establecimiento y la proliferación del mosquito vector (Aedes aegypti) en gran parte del territorio, sumado a condiciones climáticas cada vez más favorables y factores socio-económicos que facilitan la creación de criaderos y la interacción entre mosquitos y humanos infectados.
